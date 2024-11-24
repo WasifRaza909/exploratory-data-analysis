@@ -7,6 +7,7 @@ First things first: a big shout-out to Nidula Elgiriyewithana for providing the 
 As with it, this dataset contains various information about the world's wealthiest persons in different columns that can be grouped into three different types:
 
 Business-related information. These columns contain data about the industry in which the billionaires' operate, their source of wealth, total wealth and position they occupy in the ranking.
+
 Personal information. Such as name, age, nationality, country and city of residence.
 Economic activity information. These columns are related to the country in which the billionaire resides and provide different economic indicators like GDP, education enrollment or Consumer Price Index (CPI).
 Column names
@@ -41,10 +42,12 @@ country_lat. Latitude coordinate of the billionaire's country.
 country_long. Longitude coordinate of the billionaire's country.
 continent. Continent in which the country of the billionaire's residence is located.
 Potential analyses
-Analyze which industries contain the biggest groups of billionaires overall and in different countries.
-Explore number of billionaires and total wealth across countries and continents and display the result in a map.
-Focus on personal information columns such as age or gender to explore the distribution of billionaires from this perspective.
-Discover if countries' economic indicators have any impact in the presence of billionaires.
-The U.S. is the country with most billionaires presented in the dataset and also the only one with attributes in the residence_state and residence_region columns. This makes the American billionaires a good focus for a specific analysis.
+
+--Analyze which industries contain the biggest groups of billionaires overall and in different countries.
+--Explore number of billionaires and total wealth across countries and continents and display the result in a map.
+--Focus on personal information columns such as age or gender to explore the distribution of billionaires from this perspective.
+--Discover if countries' economic indicators have any impact in the presence of billionaires.
+--The U.S. is the country with most billionaires presented in the dataset and also the only one with attributes in the residence_state and residence_region columns. This makes the American billionaires a good focus for a specific analysis.
+
 Bonus
 If you want a challenge, you can create a dashboard using tools such as Plotly to dynamically visualize the data using one or different attributes (such as industry, age or country). I did it, leave the link below in case you want to investigate:
