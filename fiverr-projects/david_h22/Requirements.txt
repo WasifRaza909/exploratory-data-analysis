@@ -1,0 +1,9 @@
+Creating a dashboard with data provided in Power Bi. (Color Scheme: Blue)
+The necessary components include:
+-Top product owners based on total amount. 
+-Top product promoters based on total amount. 
+-Top products based on total amount. 
+-Sales growth over time, with a breakdown by year, quarter, and month. 
+-Evolution of the number of product owners and product promoters over time, either monthly or yearly. 
+-Average amount per sale. 
+-Dashboard should be interactive with filters
